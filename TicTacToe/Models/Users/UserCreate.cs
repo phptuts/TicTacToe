@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using static NuGet.Client.ManagedCodeConventions;
 
 namespace TicTacToe.Models.Users;
 
